@@ -1,0 +1,1177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MajesticAgency.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MajesticAgency.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\linear.css",
+      "PackagePath": "staticwebassets\\css\\linear.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\tm-bs-mp.css",
+      "PackagePath": "staticwebassets\\css\\tm-bs-mp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\css\\tm-utility-classes.css",
+      "PackagePath": "staticwebassets\\css\\tm-utility-classes.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\flaticon_agencydd20.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_agencydd20.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\flaticon_agencydd20.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_agencydd20.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\flaticon_agencydd20.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_agencydd20.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\flaticon_agencydd20.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_agencydd20.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\flaticon_agencydd20.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_agencydd20.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\linearicons-free8429.eot",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-free8429.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\linearicons-free8429.svg",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-free8429.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\linearicons-free8429.ttf",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-free8429.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\fonts\\linearicons-free8429.woff",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-free8429.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\Aboutus.png",
+      "PackagePath": "staticwebassets\\images\\Aboutus.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\Aboutus2.png",
+      "PackagePath": "staticwebassets\\images\\Aboutus2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\MajesticAgencyLogo.png",
+      "PackagePath": "staticwebassets\\images\\MajesticAgencyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\BackgroundHome.png",
+      "PackagePath": "staticwebassets\\images\\background\\BackgroundHome.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\BackgroundService.png",
+      "PackagePath": "staticwebassets\\images\\background\\BackgroundService.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\background\\page-title.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\MajesticAgencyLogoIcon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\MajesticAgencyLogoIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\arrow-icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\cat-1-bg.html",
+      "PackagePath": "staticwebassets\\images\\icons\\cat-1-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\cat-2-bg.html",
+      "PackagePath": "staticwebassets\\images\\icons\\cat-2-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\cat-3-bg.html",
+      "PackagePath": "staticwebassets\\images\\icons\\cat-3-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\cat-4-bg.html",
+      "PackagePath": "staticwebassets\\images\\icons\\cat-4-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\circle-text.png",
+      "PackagePath": "staticwebassets\\images\\icons\\circle-text.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\counter-bg.png",
+      "PackagePath": "staticwebassets\\images\\icons\\counter-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-right-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-right-2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-right-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-right-3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-right-4.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-right-4.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-right-5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-right-5.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down-right.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down-right.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-down.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-arrow-up-right.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-up-right.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-square.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-star.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-star.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-star2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-star2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\icon-star3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-star3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-10.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-11.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-11.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-12.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-13.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-13.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-14.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-14.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-15.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-16.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-17.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-17.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-18.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-18.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-19.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-19.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-20.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-20.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-21.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-21.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-4.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-5.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-6.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-7.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-8.html",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-8.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-8.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pattern-9.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\pattern-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\pricing-bg.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pricing-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\shape-7.html",
+      "PackagePath": "staticwebassets\\images\\icons\\shape-7.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\shape.png",
+      "PackagePath": "staticwebassets\\images\\icons\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\icons\\underline.png",
+      "PackagePath": "staticwebassets\\images\\icons\\underline.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\icon-star.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\icon-star.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\shadow.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\main-slider\\shape.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\404.png",
+      "PackagePath": "staticwebassets\\images\\resource\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\ServiceDetail1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\ServiceDetail1.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\about-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\award.png",
+      "PackagePath": "staticwebassets\\images\\resource\\award.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\contact.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news-details.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\news2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\product-details.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\product-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\product-details2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\product-details2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\product-details3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\product-details3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\products\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project2-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project3-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\project4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\round-text-about.png",
+      "PackagePath": "staticwebassets\\images\\resource\\round-text-about.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\round-text-discover-more.png",
+      "PackagePath": "staticwebassets\\images\\resource\\round-text-discover-more.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\round-text-feature-dark.png",
+      "PackagePath": "staticwebassets\\images\\resource\\round-text-feature-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\round-text-feature.png",
+      "PackagePath": "staticwebassets\\images\\resource\\round-text-feature.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\round-text-raadmore.png",
+      "PackagePath": "staticwebassets\\images\\resource\\round-text-raadmore.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service-details.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service4-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\service4-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\small-img.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\small-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\team-details.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\testi-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\testi-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\testi-thumbs.png",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-thumbs.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-behance.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-behance.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-bootstrap.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-dribbble.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-figma.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-figma.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-sketch.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-sketch.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\images\\resource\\wa-xd.png",
+      "PackagePath": "staticwebassets\\images\\resource\\wa-xd.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\js\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\SplitText.min.js",
+      "PackagePath": "staticwebassets\\js\\SplitText.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\appear.js",
+      "PackagePath": "staticwebassets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\bxslider.js",
+      "PackagePath": "staticwebassets\\js\\bxslider.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\gsap.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery.form.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\splitType.js",
+      "PackagePath": "staticwebassets\\js\\splitType.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MajesticAgency\\MajesticAgency\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MajesticAgency.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MajesticAgency.props",
+      "PackagePath": "build\\MajesticAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MajesticAgency.props",
+      "PackagePath": "buildMultiTargeting\\MajesticAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MajesticAgency.props",
+      "PackagePath": "buildTransitive\\MajesticAgency.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
